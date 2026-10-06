@@ -1,0 +1,6 @@
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+# Synthetic graphs from scripts/generate-large.mjs
+public/large-*.json
